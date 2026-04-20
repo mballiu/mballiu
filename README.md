@@ -1,55 +1,80 @@
-### Hi there , I'm [Marios Balliu](https://github.com/dai18088)! 👋 𝗜'𝗺 𝗮 **Junior Android Developer**
+<h1 align="center">Hi 👋, I'm Marios Balliu</h1>
+<h3 align="center">Frontend Developer | React & React Native</h3>
 
-<!--
-**dai18088/dai18088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-🔭 I’m currently working on ...
-🌱 I’m currently learning ...
-👯 I’m looking to collaborate on ...
-
--->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-## 🌐 Socials:
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/MariosBalliu#1245) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marios-balliu-0011711b9/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=twitter&logo=twitter&logoColor=white)](https://twitter.com/MarinelBalliu)
-[![Email Badge](https://img.shields.io/badge/-GMAIL-D14836?style=gmail&logo=gmail&logoColor=white)](mailto:dai18088@uom.edu.gr)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=dai18088)
-
-## 🧐 About
-
-- 👨‍💻 Mostly working on Android, Kotlin, Jetpack Compose, Kotlin Multiplatform Mobile!
-- 👨‍🎓 Studying Computer Science at [University of Macedonia](https://www.uom.gr/en)
-- 📫 How to reach me: dai18088@uom.edu.gr
-- 🌱 Languages and Tools: 
-
-    <div>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-        <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-    </div>
-
-
-
-## 📈 **My GitHub Stats:**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dai18088&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" align="center"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dai18088&theme=dark&langs_count=10" align="center"/>
+<p align="center">
+  <a href="https://github.com/mballiu">
+    <img src="https://komarev.com/ghpvc/?username=mballiu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
 </p>
 
+---
 
+## 🚀 About Me
 
+- 💻 Frontend Developer specializing in **React & React Native**
+- 📱 Experience with **Android (Kotlin, Jetpack Compose)**
+- 🎯 Focused on building **clean UI, scalable apps & good UX**
+- 🎓 Computer Science at University of Macedonia
+- 📫 Reach me: **mariosballiu16@gmail.com**
 
+---
 
-⭐️ From [Marios](https://github.com/dai18088)
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://discord.gg/MariosBalliu" target="blank">
+<img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/marios-balliu-0011711b9/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/MarinelBalliu" target="blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"/>
+</a>
+<a href="mailto:mariosballiu16@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css" />
+</p>
+
+### Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=react,kotlin,androidstudio" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mballiu&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mballiu&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## ⚡ What I'm Working On
+
+- 🚀 Building React & React Native projects
+- 📚 Improving frontend architecture & performance
+- 🔍 Exploring full-stack direction
+
+---
+
+## ⭐ Featured Projects
+*(βάλε εδώ pinned projects σου για να φαίνεσαι πιο professional)*
+
+---

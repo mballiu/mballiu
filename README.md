@@ -14,6 +14,8 @@
 - 💻 Frontend Developer specializing in **React & React Native**
 - 📱 Experience with **Android (Kotlin, Jetpack Compose)**
 - 🎯 Focused on building **clean UI, scalable apps & good UX**
+- ⚙️ Experience with **Docker, CI/CD pipelines, Ubuntu Server & Home Lab environments**
+- 🤖 Exploring **AI Agents & modern frontend patterns (Hooks, Vite)**
 - 🎓 Computer Science at University of Macedonia
 - 📫 Reach me: **mariosballiu16@gmail.com**
 
@@ -42,7 +44,7 @@
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,vite,html,css" />
 </p>
 
 ### Mobile
@@ -50,10 +52,19 @@
   <img src="https://skillicons.dev/icons?i=react,kotlin,androidstudio" />
 </p>
 
-### Tools
+### DevOps & Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,ubuntu" />
 </p>
+
+- 🖥️ Ubuntu Server & Home Lab (Proxmox, NAS)
+- 🔄 CI/CD Pipelines (GitLab Runner)
+- 🚀 Automated deployments (Fastlane, Dockerized apps)
+
+---
+
+### 🤖 AI & Emerging Tech
+- AI Agents & automation workflows
 
 ---
 
@@ -71,10 +82,5 @@
 - 🚀 Building React & React Native projects
 - 📚 Improving frontend architecture & performance
 - 🔍 Exploring full-stack direction
-
----
-
-## ⭐ Featured Projects
-*(βάλε εδώ pinned projects σου για να φαίνεσαι πιο professional)*
 
 ---
